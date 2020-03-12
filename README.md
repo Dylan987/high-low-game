@@ -1,13 +1,33 @@
 # High Low Game
 ## Inspiration
   One day I was playing cards with my friends, and we wondered what the expected score was for a game of "High Low." For those unfamilar the rules are simple.
-1. Flip over the top card of the deck
-2. For each of the remaining cards:
-  - Guess whether the card is higher or lower than the previous (face up) card
-  - Flip over the card to confirm your guess.
-    - if right: add one to your score
-    - if wrong: your score remain the same
-  - The current card becomes the next previous (face up) card
+<ol type="1">
+  <li>
+    Flip over the top card of the deck
+  </li>
+  <li>
+    For each of the remaining cards:
+    <ol>
+      <li>
+        Guess whether the card is higher or lower than the previous (face up) card
+      </li>
+      <li> 
+        Flip over the card to check you guess
+        <ul type="a">
+          <li>
+            If right: Add one to your scrore
+          </li>
+          <li>
+            If wrong: Score remains the same
+          </li>
+        </ul>
+      </li>
+      <li>
+        The current card becomes the next face up card
+      </li>
+    </ol>
+  </li>
+</ol> 
   I wondered about the expected score for this game, and so I created this script
 ## What It Does
   I simulate 40 000 trials of three different players playing the same High-Low game.
