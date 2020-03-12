@@ -1,6 +1,6 @@
 # High Low Game
 ## Inspiration
-  One day I was playing cards with my friends, and we wondered what the expected score was for a game of "High Low" For those unfamilar the rules are simple.
+  One day I was playing cards with my friends, and we wondered what the expected score was for a game of "High Low." For those unfamilar the rules are simple.
 1. Flip over the top card of the deck
 2. For each of the remaining cards:
   - Guess whether the card is higher or lower than the previous (face up) card
