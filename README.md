@@ -31,7 +31,8 @@ One day I was playing cards with my friends, and we wondered what the expected s
     Record your score, if you so wish
   </li>
 </ol> 
-I wondered about the expected score for this game, and so I created this script  
+I wondered about the expected score for this game, and so I created this script
+
 ## What It Does
 I simulate 40 000 trials of three different players playing the same High-Low game.
 One player is like a normal human player. They choose "HIGHER" if the previous (face up) card is low and "LOWER" if the previous (face up) card is high. However, there are 13 ranks in a deck of card. Using Aces low, if a 7 is the face up card, we face a problem. There are 6 (A-6) cards below a 7 and 6 (8-K) cards above a 7. We have to guess.
