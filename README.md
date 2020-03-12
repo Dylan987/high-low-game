@@ -27,6 +27,9 @@
       </li>
     </ol>
   </li>
+  <li>
+    Record your score, if you so wish
+  </li>
 </ol> 
   I wondered about the expected score for this game, and so I created this script
 ## What It Does
